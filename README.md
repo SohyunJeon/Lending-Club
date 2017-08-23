@@ -6,7 +6,7 @@
 #### 2. Dataset URL : <https://www.kaggle.com/wendykan/lending-club-loan-data>
 #### 3. You can view the analysis on nbviewer as bellow
 <br>
-1) [Preprocessing] <http://nbviewer.jupyter.org/github/SohyunJeon/Lending-Club/blob/master/1_LendingClub_Preprocessing.ipynb>
+1) [Preprocessing] :http://nbviewer.jupyter.org/github/SohyunJeon/Lending-Club/blob/master/1_LendingClub_Preprocessing.ipynb
 <http://nbviewer.jupyter.org/github/SohyunJeon/Lending-Club/blob/master/1_LendingClub_Preprocessing.ipynb>
 <br>
 2) [Categorical Features] 
