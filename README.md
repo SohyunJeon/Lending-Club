@@ -2,8 +2,17 @@
 <br>
 <br>
 
-#### To predict 'Fully Paid' or 'Default' on the basis of information of debtor.
-#### Dataset URL : <https://www.kaggle.com/wendykan/lending-club-loan-data>
+#### 1. To predict 'Fully Paid' or 'Default' on the basis of information of debtor.
+#### 2. Dataset URL : <https://www.kaggle.com/wendykan/lending-club-loan-data>
+#### 3. You can view the analysis on nbviewer as bellow
+<br>
+1) Preprocessing: <http://nbviewer.jupyter.org/github/SohyunJeon/Lending-Club/blob/master/1_LendingClub_Preprocessing.ipynb>
+<br>
+2) Categorical Features: <http://nbviewer.jupyter.org/github/SohyunJeon/Lending-Club/blob/master/2_LendingClub_CategoricalFeatures.ipynb>
+<br>
+3) EDA: <http://nbviewer.jupyter.org/github/SohyunJeon/Lending-Club/blob/master/3_LendingClub_EDA.ipynb>
+<br>
+<br>
 #### Dataset information: 
 <br>
 * These files contain complete loan data for all loans issued through the 2007-2015, including the current loan status (Current, Late, Fully Paid, etc.) 
