@@ -13,6 +13,11 @@
 <br>
 3) [EDA] : http://nbviewer.jupyter.org/github/SohyunJeon/Lending-Club/blob/master/3_LendingClub_EDA.ipynb
 <br>
+4) [Transfer Testset]: http://nbviewer.jupyter.org/github/SohyunJeon/Lending-Club/blob/master/4_LendingClub_Transfer_Testset.ipynb
+<br>
+5) [Modelling] :https://github.com/SohyunJeon/Lending-Club/blob/master/5_LendingClub_Modelling.ipynb
+
+<br>
 <br>
 #### For your reference, Modelling is no.5
 <br>
